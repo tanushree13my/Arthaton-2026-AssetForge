@@ -1,4 +1,7 @@
+# source code can be seen from release from about 
+## Download
 
+[Download AssetForge v1.0 (ZIP - 280.8 MB)](https://github.com)
 # AssetForge 
 ### Build income from what you already have. Prepare for what comes next.
 
